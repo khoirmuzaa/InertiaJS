@@ -52,32 +52,32 @@ const Menu = () => {
         
         <div className="grid grid-cols-6 gap-6">
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/kue-basah.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/kue-basah.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Kue Basah</p>
           </div>
           
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/kue-kering.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/kue-kering.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Kue Kering</p>
           </div>
           
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/kue-modern.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/kue-modern.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Kue Modern</p>
           </div>
           
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/gorengan.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/gorengan.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Gorengan</p>
           </div>
           
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/minuman.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/minuman.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Minuman</p>
           </div>
           
           <div className="flex flex-col items-center">
-            <div className="w-24 h-24 rounded-2xl bg-[url('/img/puding.png')] bg-cover bg-center mb-3"></div>
+            <div className="w-24 h-24 rounded-2xl bg-[url('/img/categories/puding.png')] bg-cover bg-center mb-3"></div>
             <p className="text-sm font-medium text-center">Puding</p>
           </div>
         </div>
